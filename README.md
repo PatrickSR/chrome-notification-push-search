@@ -6,7 +6,7 @@
 
 全称[Google Cloud Messaging](https://developers.google.com/cloud-messaging/)，是Google向开发者提供消息推送能力的服务
 
-#### ![](gcm-overview.svg) 
+#### ![](gcm-overview.png) 
 
 **FCM**
 
