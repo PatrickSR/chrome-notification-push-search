@@ -12,7 +12,7 @@
 
 全称[Firebase Cloud Messaging](http://firebase.google.com/docs/cloud-messaging/)，是新一代的GCM，继承了GCM的所有能力，归属于Firebase的功能
 
-
+![](fcm-overview.png)
 
 > FCM 提供两种方式为chrome提供消息推送服务
 >
